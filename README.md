@@ -1,6 +1,6 @@
   <!-- Hi there! Feel free to make this your own but don't use my data -->
 <div align="center">  
-<h3>Hi there! 👋🤓<br>My name Ujjwal Pandey<br>I'm currently an undergraduate at Vellore Institute of Technology <br> CSE with Data Science</h3>
+<h3>Hi there! 👋🤓<br>My name Ujjwal Pandey<br>I'm currently an undergraduate Student at Vellore Institute of Technology <br> CSE with Data Science</h3>
 </div>
 
 Here are some ideas to get you started:
