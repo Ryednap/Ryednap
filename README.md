@@ -3,7 +3,6 @@
 <h3>Hi there! 👋🤓<br>My name Ujjwal Pandey<br>I'm currently an undergraduate Student at Vellore Institute of Technology <br> CSE with Data Science</h3>
 </div>
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning 
   * DataScience and Statistics
@@ -16,4 +15,4 @@ Here are some ideas to get you started:
     * ujjwalpandey408@gmail.com
     * https://twitter.com/Ryednap
 
-- ⚡ Fun fact: I am chess enthusiast
+- ⚡ Fun fact: I am chess enthusiast :smirk:
